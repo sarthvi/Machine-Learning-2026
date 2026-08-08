@@ -5,8 +5,8 @@ The semester-long dataset is the Olist Brazilian
 E-Commerce Public Dataset.
 
 ## Prepared by
-Avni Jain
-LinkedIn: https://www.linkedin.com/in/avni-jain-a98b60312/
+Sarthvi Shrivastava
+LinkedIn: https://www.linkedin.com/in/sarthvi-shrivastava-852220329/
 
 ## Folder Structure
 
